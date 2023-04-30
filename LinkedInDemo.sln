@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedInDemo.Api.Customers", "Customer\LinkedInDemo.Api.Customers.csproj", "{E61447C2-DC09-4472-AC86-4D607159019B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedInDemo.Api.Customers", "Customer\LinkedInDemo.Api.Customers.csproj", "{E61447C2-DC09-4472-AC86-4D607159019B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csproj", "{8CE6859D-5C27-4D49-9F92-685E272F0077}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search", "Search\Search.csproj", "{8CE6859D-5C27-4D49-9F92-685E272F0077}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedInDemo.Api.Products", "Product\LinkedInDemo.Api.Products.csproj", "{682EDD49-7884-4CBB-AAA7-C7B3A7C8B24C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedInDemo.Api.Products", "Product\LinkedInDemo.Api.Products.csproj", "{682EDD49-7884-4CBB-AAA7-C7B3A7C8B24C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedInDemo.api.Orders", "LinkedInDemo.api.Orders\LinkedInDemo.api.Orders.csproj", "{92B037D8-68FB-4790-B746-A3C1E43F507D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkedInDemo.api.Orders", "LinkedInDemo.api.Orders\LinkedInDemo.api.Orders.csproj", "{92B037D8-68FB-4790-B746-A3C1E43F507D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
