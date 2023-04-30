@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zZLNWios1rD34lh6vEwu+5FBXtHPxIp8ey2CoQpZg04=",
+  "Source": "LinkedInDemo.api.Orders",
+  "BasePath": "_content/LinkedInDemo.api.Orders",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

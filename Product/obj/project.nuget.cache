@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n9m1DFmtYDO5qah4ynlNabEeEKs4ld/w8TZ8vGuUzMLoNX+q2ytQsl2j/7bHa3al8ywP0UjzB87htT7w2zGYxg==",
+  "dgSpecHash": "vE6qCU+5ito2JWzJalngohjRwJvnVbHBKzizgFKayCS10b5q1aGnphEa8TPSTMD7ZjxO3cIzNAPr+6EPNFRqKw==",
   "success": true,
-  "projectFilePath": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureMicroservice\\Product\\LinkedInDemo.Api.Products.csproj",
+  "projectFilePath": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureDemo\\Product\\LinkedInDemo.Api.Products.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.16\\microsoft.entityframeworkcore.6.0.16.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.16\\microsoft.entityframeworkcore.abstractions.6.0.16.nupkg.sha512",

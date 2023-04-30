@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Projects\\Microservices\\LinkedInDemo\\AzureMicroservice\\Search\\Search.csproj": {}
+    "G:\\Projects\\Microservices\\LinkedInDemo\\AzureDemo\\Search\\Search.csproj": {}
   },
   "projects": {
-    "G:\\Projects\\Microservices\\LinkedInDemo\\AzureMicroservice\\Search\\Search.csproj": {
+    "G:\\Projects\\Microservices\\LinkedInDemo\\AzureDemo\\Search\\Search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureMicroservice\\Search\\Search.csproj",
+        "projectUniqueName": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureDemo\\Search\\Search.csproj",
         "projectName": "Search",
-        "projectPath": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureMicroservice\\Search\\Search.csproj",
+        "projectPath": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureDemo\\Search\\Search.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureMicroservice\\Search\\obj\\",
+        "outputPath": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureDemo\\Search\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

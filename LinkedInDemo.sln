@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "Search\Search.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedInDemo.Api.Products", "Product\LinkedInDemo.Api.Products.csproj", "{682EDD49-7884-4CBB-AAA7-C7B3A7C8B24C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedInDemo.api.Orders", "LinkedInDemo.api.Orders\LinkedInDemo.api.Orders.csproj", "{92B037D8-68FB-4790-B746-A3C1E43F507D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{682EDD49-7884-4CBB-AAA7-C7B3A7C8B24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{682EDD49-7884-4CBB-AAA7-C7B3A7C8B24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{682EDD49-7884-4CBB-AAA7-C7B3A7C8B24C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B037D8-68FB-4790-B746-A3C1E43F507D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B037D8-68FB-4790-B746-A3C1E43F507D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B037D8-68FB-4790-B746-A3C1E43F507D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B037D8-68FB-4790-B746-A3C1E43F507D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

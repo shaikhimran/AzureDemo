@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureMicroservice\\Customer\\LinkedInDemo.Api.Customers.csproj",
+      "projectUniqueName": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureDemo\\Customer\\LinkedInDemo.Api.Customers.csproj",
       "projectName": "LinkedInDemo.Api.Customers",
-      "projectPath": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureMicroservice\\Customer\\LinkedInDemo.Api.Customers.csproj",
+      "projectPath": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureDemo\\Customer\\LinkedInDemo.Api.Customers.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureMicroservice\\Customer\\obj\\",
+      "outputPath": "G:\\Projects\\Microservices\\LinkedInDemo\\AzureDemo\\Customer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
